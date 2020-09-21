@@ -13,7 +13,7 @@
 <br />
 <br />
 
-<img height="80" alt="Hello World GIF" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" />
+<img height="150" alt="Hello World GIF" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" />
 <!--
 
 Here are some ideas to get you started:

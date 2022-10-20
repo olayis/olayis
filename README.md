@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **olayinkasegunsolo@gmail.com**
 
+- ⚡ Fun fact: **I love hypercars.**  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/olusegun_os" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olusegun_os" height="30" width="40" /></a>

@@ -3,15 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olayis" alt="olayis" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/olusegun_os" target="blank"><img src="https://img.shields.io/twitter/follow/olusegun_os?logo=twitter&style=for-the-badge" alt="olusegun_os" /></a> </p>
-
-- 🌱 I’m currently learning **Typescript, Python**
-
-- 💬 Ask me about **React, Redux, Javascript, MaterialUI**
+- 🌱 I’m currently learning **Typescript & Python**
 
 - 📫 How to reach me **olayinkasegunsolo@gmail.com**
-
-- ⚡ Fun fact: **I love hypercars.**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, I'm Segun 👋
 
 🔭 I’m currently working on frontend projects using React.js & TypeScript<br>👯 I’m looking to collaborate on building applications that solve problems<br> 💬 Ask me about my experience working with React, TypeScript and other frontend technologies, my approach to designing and building user interfaces, or my favorite programming language.
 

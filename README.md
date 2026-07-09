@@ -7,7 +7,7 @@ For about 7 years I've built production software at fintech scale, mostly in Rea
 ### What I work on
 
 - **Production fintech frontends.** Senior frontend engineer at a payments company. Compliance onboarding (KYB/CDD), transfers, savings, offline-first flows, and card lifecycle, built in React, TypeScript and Next.js.
-- **AI evaluation and training data.** I design benchmarks and evals for AI coding agents and run pairwise model comparisons, working with several frontier AI labs under NDA. This is the part I'm leaning into hardest.
+- **AI evaluation.** I design benchmarks and evals for AI coding agents and run pairwise model comparisons, working with several frontier AI labs under NDA. This is the part I'm leaning into hardest.
 - **Backend when the problem needs it.** Node, TypeScript and Postgres, with a bias toward correctness under concurrency.
 
 ### Building in public

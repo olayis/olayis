@@ -36,7 +36,7 @@ Balances are derived from an append-only double-entry ledger, never a cached col
 
 - X: [@techwithsegun](https://x.com/techwithsegun)
 - LinkedIn: [olusegun-olayinka](https://www.linkedin.com/in/olusegun-olayinka)
-- Email: olayis.segun@gmail.com
+- Email: olayinkasegunsolo@gmail.com
 
 <br/>
 

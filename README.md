@@ -1,21 +1,43 @@
-# Hi there, I'm Segun 👋
+# Hi, I'm Segun 👋
 
-🔭 I’m currently working on frontend projects using React.js & TypeScript<br>👯 I’m looking to collaborate on building applications that solve problems<br> 💬 Ask me about my experience working with React, TypeScript and other frontend technologies, my approach to designing and building user interfaces, or my favorite programming language.
+I'm a senior frontend engineer moving into AI product engineering.
 
+For about 7 years I've built production software at fintech scale, mostly in React and TypeScript. These days I split my time between shipping banking interfaces and working on the AI side: evaluating coding agents and LLMs, and building small AI-powered products. I'm doing that transition in public, so this profile is where you can watch it happen.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+### What I work on
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=olayis&theme=dark&hide_border=false)<br/>
+- **Production fintech frontends.** Senior frontend engineer at a payments company. Compliance onboarding (KYB/CDD), transfers, savings, offline-first flows, and card lifecycle, built in React, TypeScript and Next.js.
+- **AI evaluation and training data.** I design benchmarks and evals for AI coding agents and run pairwise model comparisons, working with several frontier AI labs under NDA. This is the part I'm leaning into hardest.
+- **Backend when the problem needs it.** Node, TypeScript and Postgres, with a bias toward correctness under concurrency.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=olayis&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### Building in public
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm documenting the move from frontend engineer to AI product engineer: the projects, the evals, and the things that break along the way. If that's interesting to you, follow along on [X](https://x.com/techwithsegun) or [LinkedIn](https://www.linkedin.com/in/olusegun-olayinka).
 
----
-[![](https://visitcount.itsvg.in/api?id=olayis&icon=0&color=0)](https://visitcount.itsvg.in)
+### Selected work
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**[wallet-system](https://github.com/olayis/wallet-system)** — A money-correct wallet and ledger API in TypeScript (Fastify, Postgres, Objection).
+Balances are derived from an append-only double-entry ledger, never a cached column. Concurrent transfers take row locks on both wallets in a stable order to avoid deadlocks, writes are idempotent at two layers, and database CHECK constraints enforce the invariants. Full test suite and CI. This is the repo I point to when someone asks how I think about correctness.
+
+*More AI-focused projects are landing here over the coming weeks as I build them in public.*
+
+### Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### Reach me
+
+- X: [@techwithsegun](https://x.com/techwithsegun)
+- LinkedIn: [olusegun-olayinka](https://www.linkedin.com/in/olusegun-olayinka)
+- Email: olayis.segun@gmail.com
+
+<br/>
+
+![Segun's GitHub stats](https://github-readme-stats.vercel.app/api?username=olayis&show_icons=true&hide_border=true)

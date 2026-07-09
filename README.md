@@ -7,7 +7,7 @@ For about 7 years I've built production software at fintech scale, mostly in Rea
 ### What I work on
 
 - **Production fintech frontends.** Senior frontend engineer at a payments company. Compliance onboarding (KYB/CDD), transfers, savings, offline-first flows, and card lifecycle, built in React, TypeScript and Next.js.
-- **AI evaluation.** I design benchmarks and evals for AI coding agents and run pairwise model comparisons, working with several frontier AI labs under NDA. This is the part I'm leaning into hardest.
+- **AI evaluation and training.** I design benchmarks and evals for AI coding agents and run pairwise model comparisons, working with several frontier AI labs under NDA. This is the part I'm leaning into hardest.
 - **Backend when the problem needs it.** Node, TypeScript and Postgres, with a bias toward correctness under concurrency.
 
 ### Building in public
@@ -19,7 +19,7 @@ I'm documenting the move from frontend engineer to AI product engineer: the proj
 **[wallet-system](https://github.com/olayis/wallet-system)** — A money-correct wallet and ledger API in TypeScript (Fastify, Postgres, Objection).
 Balances are derived from an append-only double-entry ledger, never a cached column. Concurrent transfers take row locks on both wallets in a stable order to avoid deadlocks, writes are idempotent at two layers, and database CHECK constraints enforce the invariants. Full test suite and CI. This is the repo I point to when someone asks how I think about correctness.
 
-*More AI-focused projects are landing here over the coming weeks as I build them in public.*
+*More AI product work is landing here as I build it in public.*
 
 ### Stack
 
@@ -36,8 +36,4 @@ Balances are derived from an append-only double-entry ledger, never a cached col
 
 - X: [@techwithsegun](https://x.com/techwithsegun)
 - LinkedIn: [olusegun-olayinka](https://www.linkedin.com/in/olusegun-olayinka)
-- Email: olayinkasegunsolo@gmail.com
-
-<br/>
-
-![Segun's GitHub stats](https://github-readme-stats.vercel.app/api?username=olayis&show_icons=true&hide_border=true)
+- Email: olayis.segun@gmail.com
